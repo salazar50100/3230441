@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numero_mayor", "numero_mayo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordenar_numeros", "ordenar_numeros\ordenar_numeros.csproj", "{605D7E60-E08A-4F77-BE74-082F7B5B1090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplos", "multiplos\multiplos.csproj", "{68D1A359-607A-49C4-A57C-84AF0FA879D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{605D7E60-E08A-4F77-BE74-082F7B5B1090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{605D7E60-E08A-4F77-BE74-082F7B5B1090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{605D7E60-E08A-4F77-BE74-082F7B5B1090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D1A359-607A-49C4-A57C-84AF0FA879D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D1A359-607A-49C4-A57C-84AF0FA879D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D1A359-607A-49C4-A57C-84AF0FA879D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D1A359-607A-49C4-A57C-84AF0FA879D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
